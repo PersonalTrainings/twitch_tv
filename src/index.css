@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#root {
+  width: 600px;
+  margin: 30px auto 0 auto;
+}
+
+.search_icon {
+  float: left;
+  font-size: 30px;
+  margin: 0 5px 0 0;
+}
+
+.search-bar {
+  margin: 0; 
+}
+
+.input_search {
+  width: 500px;
+  
+}
+
+.button-group {
+  margin: 10px 0;
+}
+
+.button-group button {
+  margin-right: 5px;
+}
+
+.list-group-item {
+  width: 600px;
+  height: 90px;   
+  
+}
+
+.smaller-image {
+  width: 70px;
+  float: left;
+  margin-right: 10px;       
+  border-color: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 50%;
+}
+
+.user-name {
+  float: left;
+  margin-top: 26px;  
+}
+
+.status {    
+  float: right;  
+  font-family: cursive;
+  margin-top: 26px;
+}
+
+
